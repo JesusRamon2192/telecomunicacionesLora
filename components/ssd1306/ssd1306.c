@@ -582,7 +582,7 @@ void ssd1306_fadeout(SSD1306_t * dev)
 {
 	void (*func)(SSD1306_t * dev, int page, int seg, uint8_t * images, int width);
 	if (dev->_address == SPIAddress) {
-		//func = spi_display_image;
+		func = spi_display_image;
 	} else {
 		func = i2c_display_image;
 	}
