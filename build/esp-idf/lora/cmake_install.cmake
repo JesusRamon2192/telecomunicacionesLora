@@ -1,4 +1,4 @@
-# Install script for directory: /home/jesus/Documentos/personalProjects/microcontroladores/esp32/lora/esp32lora/components/lora
+# Install script for directory: /home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/components/lora
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

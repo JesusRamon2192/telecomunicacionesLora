@@ -1,4 +1,4 @@
-# Install script for directory: /home/jesus/Documentos/personalProjects/microcontroladores/esp32/lora/esp32lora/components/ssd1306
+# Install script for directory: /home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/components/ssd1306
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

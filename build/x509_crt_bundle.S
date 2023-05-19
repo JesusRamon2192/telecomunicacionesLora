@@ -1,4 +1,4 @@
-/* * Data converted from /home/jesus/Documentos/personalProjects/microcontroladores/esp32/lora/esp32lora/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded
