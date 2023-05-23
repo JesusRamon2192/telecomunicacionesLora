@@ -1,4 +1,4 @@
-/* * Data converted from /home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /home/jesus/Documents/personalProjects/cursoLora/holaMundo/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

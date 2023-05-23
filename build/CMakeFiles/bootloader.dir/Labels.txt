@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-/home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/CMakeFiles/bootloader
-/home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/CMakeFiles/bootloader.rule
-/home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/CMakeFiles/bootloader-complete.rule
-/home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
-/home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-/home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-/home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-/home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-/home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-/home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/jesus/Documents/personalProjects/cursoLora/holaMundo/build/CMakeFiles/bootloader
+/home/jesus/Documents/personalProjects/cursoLora/holaMundo/build/CMakeFiles/bootloader.rule
+/home/jesus/Documents/personalProjects/cursoLora/holaMundo/build/CMakeFiles/bootloader-complete.rule
+/home/jesus/Documents/personalProjects/cursoLora/holaMundo/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/jesus/Documents/personalProjects/cursoLora/holaMundo/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/jesus/Documents/personalProjects/cursoLora/holaMundo/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/jesus/Documents/personalProjects/cursoLora/holaMundo/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/jesus/Documents/personalProjects/cursoLora/holaMundo/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/jesus/Documents/personalProjects/cursoLora/holaMundo/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/jesus/Documents/personalProjects/cursoLora/holaMundo/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

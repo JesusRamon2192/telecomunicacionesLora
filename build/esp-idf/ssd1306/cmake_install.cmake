@@ -1,4 +1,4 @@
-# Install script for directory: /home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/components/ssd1306
+# Install script for directory: /home/jesus/Documents/personalProjects/cursoLora/holaMundo/components/ssd1306
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

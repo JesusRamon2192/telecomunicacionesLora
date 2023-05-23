@@ -319,9 +319,12 @@ lora_init(void)
    /*
     * Configure CPU hardware to communicate with the radio chip
     */
-   esp_rom_gpio_pad_select_gpio(CONFIG_RST_GPIO);
+ 
+   //esp_rom_gpio_pad_select_gpio(CONFIG_RST_GPIO);
+   gpio_reset_pin(CONFIG_RST_GPIO);
    gpio_set_direction(CONFIG_RST_GPIO, GPIO_MODE_OUTPUT);
-   esp_rom_gpio_pad_select_gpio(CONFIG_CS_GPIO);
+   //esp_rom_gpio_pad_select_gpio(CONFIG_CS_GPIO);
+   gpio_reset_pin(CONFIG_CS_GPIO);
    gpio_set_direction(CONFIG_CS_GPIO, GPIO_MODE_OUTPUT);
 
    spi_bus_config_t bus = {
