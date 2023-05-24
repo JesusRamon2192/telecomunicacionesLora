@@ -1,4 +1,4 @@
-# Install script for directory: /home/jesus/Documents/personalProjects/cursoLora/holaMundo/main
+# Install script for directory: /home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
