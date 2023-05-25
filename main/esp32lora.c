@@ -154,7 +154,7 @@ void app_main(void){
         printf("WiFi: %s\n", (char*)conf.sta.ssid);
         char ssid[64];
         sprintf(ssid, "%s\n", (char *)conf.sta.ssid);
-        screen_print(ssid, 0);
+        screen_print(ssid, 1);
         }
 
         if (esp_netif_get_ip_info(netif, &ip_info) == ESP_OK) {
