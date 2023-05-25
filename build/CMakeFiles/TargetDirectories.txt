@@ -607,6 +607,13 @@
 /home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/esp-idf/main/CMakeFiles/install.dir
 /home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/esp-idf/main/CMakeFiles/install/local.dir
 /home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/esp-idf/main/CMakeFiles/install/strip.dir
+/home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/esp-idf/protocol_examples_common/CMakeFiles/__idf_protocol_examples_common.dir
+/home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/esp-idf/protocol_examples_common/CMakeFiles/edit_cache.dir
+/home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/esp-idf/protocol_examples_common/CMakeFiles/rebuild_cache.dir
+/home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/esp-idf/protocol_examples_common/CMakeFiles/list_install_components.dir
+/home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/esp-idf/protocol_examples_common/CMakeFiles/install.dir
+/home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/esp-idf/protocol_examples_common/CMakeFiles/install/local.dir
+/home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/esp-idf/protocol_examples_common/CMakeFiles/install/strip.dir
 /home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/esp-idf/lora/CMakeFiles/__idf_lora.dir
 /home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/esp-idf/lora/CMakeFiles/edit_cache.dir
 /home/jesus/Documents/personalProjects/cursoLora/telecomunicacionesLora/build/esp-idf/lora/CMakeFiles/rebuild_cache.dir
