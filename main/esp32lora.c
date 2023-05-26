@@ -70,13 +70,6 @@ void send_msg(char *msg, int size) {
     printf("packet sent :D\n");
 }
 
-void task_tx(void *p) {
-    for(;;) {
-        send_msg("Ping2!", 5);
-        vTaskDelay(2000 /portTICK_PERIOD_MS);
-    }
-}
-
 void lora_config_init() {
     printf("lora config init!\n");
     lora_init();
